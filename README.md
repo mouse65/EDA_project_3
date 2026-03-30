@@ -34,3 +34,4 @@
 Python • Pandas • NumPy • Matplotlib • Seaborn
 Scikit‑learn • Jupyter Notebook
 ## 🔗 Ссылка на проект
+👉 [Проект на GitHub](https://github.com/mouse65/EDA_project_3)

@@ -27,3 +27,10 @@
 -  Обучение модели
 -  Получение метрики **MAPE**
 -  Интерпретация результатов
+## 📁 Структура репозитория
+-  project-3-booking-reviews.ipynb — основной ноутбук с EDA и моделированием
+-  README.md — описание проекта
+## 🛠️ Используемый стек
+Python • Pandas • NumPy • Matplotlib • Seaborn
+Scikit‑learn • Jupyter Notebook
+## 🔗 Ссылка на проект
